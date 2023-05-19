@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/student-grade-calculator/static/css/main.c770b9ea.css",
+    "main.js": "/student-grade-calculator/static/js/main.a6d29965.js",
+    "static/js/787.d8c31991.chunk.js": "/student-grade-calculator/static/js/787.d8c31991.chunk.js",
+    "index.html": "/student-grade-calculator/index.html",
+    "main.c770b9ea.css.map": "/student-grade-calculator/static/css/main.c770b9ea.css.map",
+    "main.a6d29965.js.map": "/student-grade-calculator/static/js/main.a6d29965.js.map",
+    "787.d8c31991.chunk.js.map": "/student-grade-calculator/static/js/787.d8c31991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c770b9ea.css",
+    "static/js/main.a6d29965.js"
+  ]
+}
