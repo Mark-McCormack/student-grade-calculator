@@ -1,0 +1,25 @@
+.rainbow-columns .col {
+  background-color: #0d3b66; /* default color */
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.rainbow-columns .col:nth-child(2) {
+  background-color: #faf0ca;
+}
+
+.rainbow-columns .col:nth-child(3) {
+  background-color: #f4d35e;
+}
+
+.rainbow-columns .col:nth-child(4) {
+  background-color: #ee964b;
+}
+
+.rainbow-columns .col:nth-child(5) {
+  background-color: #f95738;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
